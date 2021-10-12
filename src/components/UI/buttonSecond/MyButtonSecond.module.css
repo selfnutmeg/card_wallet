@@ -1,0 +1,19 @@
+.myBtnSecond {
+    padding: 7px 12px 9px;
+    margin: 5px 0;
+    text-align: center;
+    color: #000;
+    font-size: 11px;
+    background-color: #e2e1e1;
+    cursor: pointer;
+    font-family: "Tahoma", Geneva, sans-serif;
+    font-weight: 300;
+    transition: all 0.15s linear;
+    border: none;
+    border-radius: 4px;
+    letter-spacing: 0.4px;
+}
+
+.myBtnSecond:hover {
+    background-color: #b8b8b8;
+}
